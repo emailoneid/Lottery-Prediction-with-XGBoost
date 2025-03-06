@@ -8,8 +8,8 @@ The project expects a CSV file named `lotto_data.csv` in the parent directory (`
 
 | Date       | Num1 | Num2 | Num3 | Num4 | Num5 | Num6 | BnusNo |
 |------------|------|------|------|------|------|------|--------|
-| 2023-01-01 |  5   | 12   | 23   | 34   | 45   | 49   |   8    |
-| 2023-01-08 |  2   | 18   | 22   | 31   | 39   | 46   |   7    |
+| 2023-01-01 |  5   | 12   | 23   | 34   | 35   | 45   |   8    |
+| 2023-01-08 |  2   | 18   | 22   | 31   | 39   | 45   |   7    |
 
 
 ## How It Works
