@@ -1,4 +1,4 @@
-# Lottery Prediction with XGBoost
+# Lotto Prediction with XGBoost
 
 ## Overview
 This project uses an XGBoost regression model to predict the next set of lottery numbers based on historical draw data. The model is trained using past lottery draw dates as the feature and the winning numbers as the target variables.
